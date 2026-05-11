@@ -265,7 +265,7 @@ section {
   align-items: center;
   position: relative;
   background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-              url('images/hero.jpg') center/cover no-repeat;
+              url('images/Hero.png') center/cover no-repeat;
   padding: 8rem 0 4rem;
 }
 
