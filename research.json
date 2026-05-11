@@ -1,0 +1,60 @@
+{
+  "name": "Sunshine Motor Repairs & Tyres",
+  "type": "auto mechanic and tyre shop",
+  "tagline": "Honest, reliable car servicing and tyres in Sunshine North",
+  "description": "Sunshine Motor Repairs & Tyres is a trusted local auto workshop based in Sunshine North, Melbourne. The team handles all mechanical and auto-electrical repairs, log book servicing on all makes and models with company stamp, roadworthy certificates, fleet servicing, and supplies and fits a wide range of tyres and rims. Customers value the workshop for transparent pricing, clear communication, fast turnaround, and doing the job right the first time.",
+  "address": "97 Cromer Ave, Sunshine North VIC 3020",
+  "phone": "0433 523 675",
+  "phone_secondary": "(03) 9366 0066",
+  "email": "info@sunshinemotors.com.au",
+  "services": [
+    "Log Book Servicing",
+    "General Car Service",
+    "Roadworthy Certificates",
+    "Mechanical Repairs",
+    "Auto Electrical Repairs",
+    "Air Conditioning Service",
+    "Tyres Supply & Fitting",
+    "Wheel Alignment & Balancing",
+    "Wheels & Rims",
+    "Diagnostics & Fault Finding",
+    "Fleet Servicing",
+    "Brake Repairs"
+  ],
+  "social_links": {
+    "facebook": "https://www.facebook.com/sunshinemotorrepairs/",
+    "instagram": "",
+    "linkedin": "",
+    "tiktok": ""
+  },
+  "existing_website_url": "https://sunshinemotors.com.au/",
+  "brand_colors": [],
+  "testimonials": [
+    {
+      "author": "Local customer",
+      "text": "Very honest and reliable mechanic. Good advice and great affordable price.",
+      "rating": 5
+    },
+    {
+      "author": "Local customer",
+      "text": "Excellent skill and professionalism in their work. Suggest all car owners visit this place and take a great benefit.",
+      "rating": 5
+    },
+    {
+      "author": "Local customer",
+      "text": "Highly recommended.",
+      "rating": 5
+    }
+  ],
+  "opening_hours": {
+    "Monday": "8:30 AM – 5:00 PM",
+    "Tuesday": "8:30 AM – 5:00 PM",
+    "Wednesday": "8:30 AM – 5:00 PM",
+    "Thursday": "8:30 AM – 5:00 PM",
+    "Friday": "8:30 AM – 5:00 PM",
+    "Saturday": "8:30 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "rating": "",
+  "review_count": ""
+}
